@@ -1,0 +1,17 @@
+Package: cwdata
+Title: Communicating With Data Resources
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ketan",
+           family = "Kabu",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Tutorial for CWD.
+License: GPL - 3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
